@@ -1,4 +1,4 @@
-# A simple e-ablum for your home.
+# A simple e-album for your home.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
